@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TeamMemberAllocation2/static/css/main.2a58954b.css",
+    "main.js": "/TeamMemberAllocation2/static/js/main.372b4d1d.js",
+    "static/media/maleProfile.jpg": "/TeamMemberAllocation2/static/media/maleProfile.657c4196488ead649e93.jpg",
+    "static/media/femaleProfile.jpg": "/TeamMemberAllocation2/static/media/femaleProfile.48d77dc2519df08d5cc5.jpg",
+    "index.html": "/TeamMemberAllocation2/index.html",
+    "main.2a58954b.css.map": "/TeamMemberAllocation2/static/css/main.2a58954b.css.map",
+    "main.372b4d1d.js.map": "/TeamMemberAllocation2/static/js/main.372b4d1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a58954b.css",
+    "static/js/main.372b4d1d.js"
+  ]
+}
